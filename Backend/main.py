@@ -4,7 +4,6 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 class Input(BaseModel):
-    # Ubuntu: /mnt/c/Users/maxim/OneDrive/Desktop/MP/Projects/#1 - Image Classification project/Images for testing/Frog #2 - test image (J).jpg
     filepath: str
 
 app = FastAPI()
