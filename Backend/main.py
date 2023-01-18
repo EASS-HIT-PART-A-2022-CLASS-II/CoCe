@@ -10,7 +10,7 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return "Welcome to the Image Classifier!"
+    return {"Intro": "Welcome to the Image Classifier!"}
 
 @app.post("/classify")
 def classify(input:Input):
