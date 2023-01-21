@@ -23,6 +23,9 @@ Due to computational restrictions, the neural network was not able to go through
 * Accuracy: 43.25% -> 76.15%
 * Loss: 1.5687 -> 0.6955
 
+# Architecture
+![image](https://user-images.githubusercontent.com/68182283/213871868-825d794d-09d6-4133-b58c-c888c7d45f29.png)
+
 # 🌱 Deployment
 First of all you will need Git and Docker installed on your machine.
 
