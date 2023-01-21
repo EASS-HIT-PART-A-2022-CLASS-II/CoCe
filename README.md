@@ -24,9 +24,9 @@ Due to computational restrictions, the neural network was not able to go through
 * Loss: 1.5687 -> 0.6955
 
 # Architecture
-![image](https://user-images.githubusercontent.com/68182283/213871868-825d794d-09d6-4133-b58c-c888c7d45f29.png)
+![image](https://user-images.githubusercontent.com/68182283/213872241-1d3c74f7-9c20-40ea-aade-6b0bb08fd841.png)
 
-# 🌱 Deployment
+# Deployment
 First of all you will need Git and Docker installed on your machine.
 
 1. Open the Terminal, go inside your desired folder and run the following command:
