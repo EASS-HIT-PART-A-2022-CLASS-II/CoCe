@@ -24,7 +24,7 @@ Due to computational restrictions, the neural network was not able to go through
 * Loss: 1.5687 -> 0.6955
 
 # Architecture
-![image](https://user-images.githubusercontent.com/68182283/213872241-1d3c74f7-9c20-40ea-aade-6b0bb08fd841.png)
+![image](https://user-images.githubusercontent.com/68182283/213872894-281fcbb6-b20d-4605-9b13-19b7a7017d52.png)
 
 # Deployment
 First of all you will need Git and Docker installed on your machine.
