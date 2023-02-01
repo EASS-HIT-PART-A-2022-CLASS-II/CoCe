@@ -17,7 +17,7 @@ CoCe :robot: is a deep learning-based project aiming to classify images out of t
 
 CoCe was built as part of the EASS course in order to get an understanding of how to deploy an end-to-end application using various tools commonly used in the tech industry.
 
-# Demonstratio
+# Demonstration
 https://user-images.githubusercontent.com/68182283/215990749-84b3f5b9-0f9e-4385-b300-cb0c9c2d9fe2.mp4
 
 # Architecture
