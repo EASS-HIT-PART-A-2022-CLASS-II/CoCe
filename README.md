@@ -21,7 +21,7 @@ CoCe was built as part of the EASS course in order to get an understanding of ho
 https://user-images.githubusercontent.com/68182283/215993391-bb095f79-2d3a-4f56-bc0d-aeb70c3acfaa.mp4
 
 # Architecture
-![image](https://user-images.githubusercontent.com/68182283/213872894-281fcbb6-b20d-4605-9b13-19b7a7017d52.png)
+![image](https://user-images.githubusercontent.com/68182283/216098169-5fc5651b-e22d-48b3-b725-2a8e7624f4f7.png)
 
 # Performance
 Due to computational restrictions, the neural network was not able to go through many epochs. Nevertheless, the neural network gain pretty good accuracy score and the loss was minimized as much as possible so the neural network did not went to overfit.
