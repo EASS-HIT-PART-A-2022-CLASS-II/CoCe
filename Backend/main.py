@@ -1,4 +1,4 @@
-from classification import *
+from Model.classification import *
 
 from fastapi import FastAPI
 from pydantic import BaseModel

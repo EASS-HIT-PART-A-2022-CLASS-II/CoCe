@@ -3,7 +3,7 @@ import numpy as np
 from keras.models import load_model
 from keras.utils import load_img, img_to_array
 
-model = load_model(filepath = "final_model.h5")
+model = load_model(filepath = "Model/final_model.h5")
 
 # The value will be displayed to the user according to the classification of the neural network.
 results = {0:"Airplane", 1:"Automobile", 2:"Bird", 3:"Cat", 4:"Deer", 5:"Dog", 6:"Frog", 7:"Horse", 8:"Ship", 9:"Truck"}
